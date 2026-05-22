@@ -103,7 +103,7 @@ Now your project will run successfully 🎉
 
 
 
-## 🎯 Future Improvements
+## 🎯 Key Features
 
 - Add workout recommendations  
 - Add diet suggestions  
