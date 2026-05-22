@@ -105,11 +105,12 @@ Now your project will run successfully 🎉
 
 ## 🎯 Key Features
 
-- Add workout recommendations  
-- Add diet suggestions  
+- Workout recommendations  
+- Diet suggestions  
 - User authentication system  
 - Database integration  
 - BMI calculator
+- Protein and Fat intake Calculator
 
 ---
 
